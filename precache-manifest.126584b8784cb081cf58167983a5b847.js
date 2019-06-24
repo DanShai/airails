@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3d4ca6db43c3c1faa6b5a4a10693c2b",
+    "revision": "7a2bb9b6dfc69010bb09846985ce91e6",
     "url": "/airails/index.html"
   },
   {
-    "revision": "e046d3409588aa189d72",
+    "revision": "6f2a1e391f69b7e55e6b",
     "url": "/airails/static/css/main.61d21350.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/airails/static/js/2.991419ef.chunk.js"
   },
   {
-    "revision": "e046d3409588aa189d72",
-    "url": "/airails/static/js/main.2c177963.chunk.js"
+    "revision": "6f2a1e391f69b7e55e6b",
+    "url": "/airails/static/js/main.72ebee77.chunk.js"
   },
   {
     "revision": "8d7e78a113897ee31279",

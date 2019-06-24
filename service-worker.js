@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/airails/precache-manifest.2bc469218b9c887c1d5fcec1dee5fdd8.js"
+  "/airails/precache-manifest.126584b8784cb081cf58167983a5b847.js"
 );
 
 self.addEventListener('message', (event) => {

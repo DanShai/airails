@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/airails/static/css/main.61d21350.chunk.css",
-    "main.js": "/airails/static/js/main.2c177963.chunk.js",
+    "main.js": "/airails/static/js/main.72ebee77.chunk.js",
     "runtime~main.js": "/airails/static/js/runtime~main.91423828.js",
     "static/js/2.991419ef.chunk.js": "/airails/static/js/2.991419ef.chunk.js",
     "index.html": "/airails/index.html",
-    "precache-manifest.2bc469218b9c887c1d5fcec1dee5fdd8.js": "/airails/precache-manifest.2bc469218b9c887c1d5fcec1dee5fdd8.js",
+    "precache-manifest.126584b8784cb081cf58167983a5b847.js": "/airails/precache-manifest.126584b8784cb081cf58167983a5b847.js",
     "service-worker.js": "/airails/service-worker.js",
     "static/media/rails.mp4": "/airails/static/media/rails.a8190511.mp4"
   }
